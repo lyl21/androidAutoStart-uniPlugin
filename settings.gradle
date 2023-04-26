@@ -20,6 +20,6 @@ dependencyResolutionManagement {
         }
     }
 }
-rootProject.name = "androidLauncher"
+rootProject.name = "androidAutoStart-uniPlugin"
 include ':app'
 include ':autostart'
